@@ -1,0 +1,13 @@
+C:\Users\HL94-2019\assignmentDay1\bin\Debug\netcoreapp3.1\assignmentDay1.exe
+C:\Users\HL94-2019\assignmentDay1\bin\Debug\netcoreapp3.1\assignmentDay1.deps.json
+C:\Users\HL94-2019\assignmentDay1\bin\Debug\netcoreapp3.1\assignmentDay1.runtimeconfig.json
+C:\Users\HL94-2019\assignmentDay1\bin\Debug\netcoreapp3.1\assignmentDay1.runtimeconfig.dev.json
+C:\Users\HL94-2019\assignmentDay1\bin\Debug\netcoreapp3.1\assignmentDay1.dll
+C:\Users\HL94-2019\assignmentDay1\bin\Debug\netcoreapp3.1\assignmentDay1.pdb
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.csprojAssemblyReference.cache
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.AssemblyInfoInputs.cache
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.AssemblyInfo.cs
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.csproj.CoreCompileInputs.cache
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.dll
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.pdb
+C:\Users\HL94-2019\assignmentDay1\obj\Debug\netcoreapp3.1\assignmentDay1.genruntimeconfig.cache
